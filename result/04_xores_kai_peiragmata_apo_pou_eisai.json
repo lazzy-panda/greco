@@ -1,0 +1,3471 @@
+{
+  "data": [
+    {
+      "sentence": {
+        "english": {
+          "text": "Where are you from?",
+          "count": 1,
+          "pause": 3.0
+        },
+        "greek": {
+          "text": "«Από πού είσαι;»",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "From",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Από",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "where",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πού",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "are you?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "είσαι;»",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "From where?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Από πού",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Where are you from?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Από πού είσαι;»",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Where are you from?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Από πού είσαι;",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "From",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "where",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πού",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Are you?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "είσαι;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "From where?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Από πού",
+            "count": 1,
+            "pause": 1.0,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Where are you from?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Από πού είσαι;",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I am from Romania, but now I live in Greece, Athens.",
+          "count": 1,
+          "pause": 5.5
+        },
+        "greek": {
+          "text": "Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα.",
+          "count": 3,
+          "pause": 5.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I am.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είμαι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Romania,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ρουμανία,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "but",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αλλά",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Now",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τώρα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm staying.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "μένω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Greece,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ελλάδα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Athens.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αθήνα.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I'm from",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είμαι από",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είμαι από τη",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Romania,",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία,",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Romania, but",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία, αλλά",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Romania, but now",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία, αλλά τώρα",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Romania, but now I live",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία, αλλά τώρα μένω",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I am from Romania, but now I live in",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία, αλλά τώρα μένω στην",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Romania, but now I live in Greece,",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα,",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I am from Romania, but now I live in Greece, in",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I am from Romania, but now I live in Greece, Athens.",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα.",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "You?",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Εσύ;",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "You?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Εσύ;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I'm from Russia, but my brother is from Canada.",
+          "count": 1,
+          "pause": 4.5
+        },
+        "greek": {
+          "text": "Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά.",
+          "count": 3,
+          "pause": 6.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I am.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "είμαι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τη",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Russia,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ρωσία,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "but",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "όμως",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "brother",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αδερφός",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τον",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Canada.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Καναδά.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "It's me.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia,",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia, though.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I am from Russia, but the",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως ο",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia, but the brother.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως ο αδερφός",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia, but my brother.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia, but my brother is",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia, but my brother is from",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia, but my brother is from",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον",
+            "count": 3,
+            "pause": 6.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm from Russia, but my brother is from Canada.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά.",
+            "count": 3,
+            "pause": 6.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "We live in Kalamaria.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Μένουμε στην Καλαμαριά.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "We stay.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Μένουμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Kalamaria.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Καλαμαριά.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "We live in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Μένουμε στην",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We live in Kalamaria.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Μένουμε στην Καλαμαριά.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Our friend Anna is from France, and Nikos from Argentina.",
+          "count": 1,
+          "pause": 5.0
+        },
+        "greek": {
+          "text": "Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή.",
+          "count": 3,
+          "pause": 7.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "friend",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "φίλη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "η",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "lon",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ννα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τη",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "France,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Γαλλία,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Nikos",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Νίκος",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "την",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Argentina.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αργεντινή.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The friend.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η φίλη",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η φίλη μας",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η φίλη μας η",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend, Nana.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is from",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is from",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nna is from France,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη Γαλλία,",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is from France, and",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη Γαλλία, κι",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is from France, and",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη Γαλλία, κι ο",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is from France, and Nicos",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη Γαλλία, κι ο Νίκος",
+            "count": 3,
+            "pause": 6.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is from France, and Nikos is from",
+            "count": 1,
+            "pause": 5.0
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη Γαλλία, κι ο Νίκος από",
+            "count": 3,
+            "pause": 6.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nna is from France, and Nicos is from",
+            "count": 1,
+            "pause": 5.0
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη Γαλλία, κι ο Νίκος από την",
+            "count": 3,
+            "pause": 7.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our friend Nana is from France, and Nikos from Argentina.",
+            "count": 1,
+            "pause": 5.0
+          },
+          "greek": {
+            "text": "Η φίλη μας η ννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή.",
+            "count": 3,
+            "pause": 7.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "France is in Europe.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Η Γαλλία είναι στην Ευρώπη.",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "France",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Γαλλία",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Europe.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ευρώπη.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "France",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η Γαλλία",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "France is",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η Γαλλία είναι",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "France is in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η Γαλλία είναι στην",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "France is in Europe.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Η Γαλλία είναι στην Ευρώπη.",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Morocco is in Africa, right?",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Το Μαρόκο είναι στην Αφρική, σωστά;",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Morocco",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Μαρόκο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Africa,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αφρική,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Right?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σωστά;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Morocco",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το Μαρόκο",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Morocco is",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το Μαρόκο είναι",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Morocco is in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το Μαρόκο είναι στην",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Morocco is in Africa,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το Μαρόκο είναι στην Αφρική,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Morocco is in Africa, right?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Το Μαρόκο είναι στην Αφρική, σωστά;",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Yeah.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Ναι.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Yeah.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ναι.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Burundi too in Africa.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Και το Μπουρούντι επίσης στην Αφρική.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "And",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Burundi",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Μπουρούντι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "also",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "επίσης",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Africa.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αφρική.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "And the",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Και το",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "And Burundi",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Και το Μπουρούντι",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Burundi too",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Και το Μπουρούντι επίσης",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "And Burundi also in",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Και το Μπουρούντι επίσης στην",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Burundi too in Africa.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Και το Μπουρούντι επίσης στην Αφρική.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Iraq and Afghanistan are in Asia, Israel too.",
+          "count": 1,
+          "pause": 4.0
+        },
+        "greek": {
+          "text": "Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης.",
+          "count": 3,
+          "pause": 5.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ιράκ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Afghanistan",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αφγανιστάν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Asia,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ασία,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Israel",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ισραήλ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "You too.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "επίσης.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Iraq",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το Ιράκ",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το Ιράκ και",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and the",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το Ιράκ και το",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and Afghanistan",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το Ιράκ και το Αφγανιστάν",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and Afghanistan are",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το Ιράκ και το Αφγανιστάν είναι",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and Afghanistan are in",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Το Ιράκ και το Αφγανιστάν είναι στην",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and Afghanistan are in Asia,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Το Ιράκ και το Αφγανιστάν είναι στην Ασία,",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and Afghanistan are in Asia,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and Afghanistan are in Asia, Israel",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Iraq and Afghanistan are in Asia, Israel too.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης.",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Where's New York?",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Η Νέα Υόρκη πού είναι;",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "New",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Νέα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "York",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Υόρκη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "where",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πού",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Is it?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "είναι;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "News",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η Νέα",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "New York",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η Νέα Υόρκη",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "New York where",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η Νέα Υόρκη πού",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Where's New York?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η Νέα Υόρκη πού είναι;",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "He's in the States.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Είναι στις ΗΠΑ.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "It is.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είναι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στις",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "USA.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ΗΠΑ.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "It's on",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είναι στις",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "He's in the States.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Είναι στις ΗΠΑ.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Egypt is in Africa.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Η Αίγυπτος είναι στην Αφρική.",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Egypt",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αίγυπτος",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Africa.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αφρική.",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Egypt",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η Αίγυπτος",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Egypt is",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η Αίγυπτος είναι",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Egypt is in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η Αίγυπτος είναι στην",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Egypt is in Africa.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Η Αίγυπτος είναι στην Αφρική.",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I'm not from Greece, but I really like it.",
+          "count": 1,
+          "pause": 4.5
+        },
+        "greek": {
+          "text": "Δεν είμαι από την Ελλάδα, αλλά μου αρέσει πολύ.",
+          "count": 3,
+          "pause": 4.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "No",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Δεν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I am.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "είμαι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "την",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Greece,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ελλάδα,",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "but",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αλλά",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Like",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αρέσει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Very.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πολύ.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I'm not.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Δεν είμαι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm not from",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Δεν είμαι από",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm not from",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Δεν είμαι από την",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm not from Greece,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Δεν είμαι από την Ελλάδα,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm not from Greece, but",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Δεν είμαι από την Ελλάδα, αλλά",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I am not from Greece, but my",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Δεν είμαι από την Ελλάδα, αλλά μου",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm not from Greece, but I like it.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Δεν είμαι από την Ελλάδα, αλλά μου αρέσει",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm not from Greece, but I really like it.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Δεν είμαι από την Ελλάδα, αλλά μου αρέσει πολύ.",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Good.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Ωραία.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Good.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ωραία.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "We are from many countries, but now we all live in Greece.",
+          "count": 1,
+          "pause": 6.0
+        },
+        "greek": {
+          "text": "Είμαστε από πολλές χώρες, αλλά τώρα όλοι μένουμε στην Ελλάδα.",
+          "count": 3,
+          "pause": 5.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "We are.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είμαστε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "many",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πολλές",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "countries,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "χώρες,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "but",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αλλά",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Now",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τώρα",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "all",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "όλοι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We stay.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "μένουμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Greece.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ελλάδα.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "We're from",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είμαστε από",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We are from many",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We're from many countries,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές χώρες,",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We're from many countries, but",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές χώρες, αλλά",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We're from many countries, but now",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές χώρες, αλλά τώρα",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We are from many countries, but now we're all",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές χώρες, αλλά τώρα όλοι",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We're from many countries, but now we all stay",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές χώρες, αλλά τώρα όλοι μένουμε",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We are from many countries, but now we all live in",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές χώρες, αλλά τώρα όλοι μένουμε στην",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "We are from many countries, but now we all live in Greece.",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "Είμαστε από πολλές χώρες, αλλά τώρα όλοι μένουμε στην Ελλάδα.",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    }
+  ],
+  "sentences": [
+    {
+      "english": {
+        "text": "Where are you from?",
+        "count": 1,
+        "pause": 3.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;»",
+        "count": 1,
+        "pause": 1.5,
+        "repeat": false
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from?",
+        "count": 1,
+        "pause": 4.5
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι;",
+        "count": 3,
+        "pause": 3.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens.",
+        "count": 1,
+        "pause": 10.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα.",
+        "count": 3,
+        "pause": 8.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You?",
+        "count": 1,
+        "pause": 10.5
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ;",
+        "count": 3,
+        "pause": 9.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada.",
+        "count": 1,
+        "pause": 15.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά.",
+        "count": 3,
+        "pause": 15.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria.",
+        "count": 1,
+        "pause": 17.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά.",
+        "count": 3,
+        "pause": 17.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina.",
+        "count": 1,
+        "pause": 22.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή.",
+        "count": 3,
+        "pause": 24.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe.",
+        "count": 1,
+        "pause": 24.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη.",
+        "count": 3,
+        "pause": 27.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right?",
+        "count": 1,
+        "pause": 26.5
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά;",
+        "count": 3,
+        "pause": 30.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco's in Africa, right?",
+        "count": 1,
+        "pause": 26.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι.",
+        "count": 3,
+        "pause": 30.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right?",
+        "count": 1,
+        "pause": 26.5
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική.",
+        "count": 3,
+        "pause": 33.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right? Iraq and Afghanistan are in Asia, Israel too.",
+        "count": 1,
+        "pause": 30.5
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική. Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης.",
+        "count": 3,
+        "pause": 39.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right? Iraq and Afghanistan are in Asia, Israel too. Where's New York?",
+        "count": 1,
+        "pause": 32.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική. Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης. Η Νέα Υόρκη πού είναι;",
+        "count": 3,
+        "pause": 41.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right? Iraq and Afghanistan are in Asia, Israel too. Where's New York? He's in the States.",
+        "count": 1,
+        "pause": 34.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική. Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης. Η Νέα Υόρκη πού είναι; Είναι στις ΗΠΑ.",
+        "count": 3,
+        "pause": 43.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right? Iraq and Afghanistan are in Asia, Israel too. Where's New York? He's in the States. Egypt is in Africa.",
+        "count": 1,
+        "pause": 36.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική. Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης. Η Νέα Υόρκη πού είναι; Είναι στις ΗΠΑ. Η Αίγυπτος είναι στην Αφρική.",
+        "count": 3,
+        "pause": 45.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right? Iraq and Afghanistan are in Asia, Israel too. Where's New York? He's in the States. Egypt is in Africa. I'm not from Greece, but I really like it.",
+        "count": 1,
+        "pause": 40.5
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική. Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης. Η Νέα Υόρκη πού είναι; Είναι στις ΗΠΑ. Η Αίγυπτος είναι στην Αφρική. Δεν είμαι από την Ελλάδα, αλλά μου αρέσει πολύ.",
+        "count": 3,
+        "pause": 50.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right? Iraq and Afghanistan are in Asia, Israel too. Where's New York? He's in the States. Egypt is in Africa. I'm not from Greece, but I really like it. Good.",
+        "count": 1,
+        "pause": 41.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική. Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης. Η Νέα Υόρκη πού είναι; Είναι στις ΗΠΑ. Η Αίγυπτος είναι στην Αφρική. Δεν είμαι από την Ελλάδα, αλλά μου αρέσει πολύ. Ωραία.",
+        "count": 3,
+        "pause": 50.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ Where are you from?\" Where are you from? I am from Romania, but now I live in Greece, Athens. You? I'm from Russia, but my brother is from Canada. We live in Kalamaria. Our friend Anna is from France, and Nikos from Argentina. France is in Europe. Morocco is in Africa, right? Iraq and Afghanistan are in Asia, Israel too. Where's New York? He's in the States. Egypt is in Africa. I'm not from Greece, but I really like it. Good. We are from many countries, but now we all live in Greece.",
+        "count": 1,
+        "pause": 47.0
+      },
+      "greek": {
+        "text": "«Από πού είσαι;» Από πού είσαι; Είμαι από τη Ρουμανία, αλλά τώρα μένω στην Ελλάδα, στην Αθήνα. Εσύ; Εγώ είμαι από τη Ρωσία, όμως ο αδερφός μου είναι από τον Καναδά. Μένουμε στην Καλαμαριά. Η φίλη μας η Άννα είναι από τη Γαλλία, κι ο Νίκος από την Αργεντινή. Η Γαλλία είναι στην Ευρώπη. Το Μαρόκο είναι στην Αφρική, σωστά; Ναι. Και το Μπουρούντι επίσης στην Αφρική. Το Ιράκ και το Αφγανιστάν είναι στην Ασία, το Ισραήλ επίσης. Η Νέα Υόρκη πού είναι; Είναι στις ΗΠΑ. Η Αίγυπτος είναι στην Αφρική. Δεν είμαι από την Ελλάδα, αλλά μου αρέσει πολύ. Ωραία. Είμαστε από πολλές χώρες, αλλά τώρα όλοι μένουμε στην Ελλάδα.",
+        "count": 3,
+        "pause": 55.5,
+        "repeat": true
+      },
+      "role": "B"
+    }
+  ]
+}

@@ -1,0 +1,2596 @@
+{
+  "data": [
+    {
+      "sentence": {
+        "english": {
+          "text": "In class",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "«Στο μάθημα»",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "In",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Στο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "class",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μάθημα»",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "In class",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Στο μάθημα»",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Good morning, everyone.",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Καλημέρα, παιδιά.",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Good morning,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Καλημέρα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "everyone.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "παιδιά.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Good morning, everyone.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Καλημέρα, παιδιά.",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "What are you doing?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Τι κάνετε;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "What?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Do you?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "κάνετε;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "What are you doing?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Τι κάνετε;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Very well!",
+          "count": 1,
+          "pause": 1.0
+        },
+        "greek": {
+          "text": "Πολύ καλά!",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Very",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πολύ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Fine!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "καλά!",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Very well!",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πολύ καλά!",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "How are you, teacher?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Εσύ πώς είσαι, δάσκαλε;",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "You.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Εσύ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "how",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πώς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You are,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "είσαι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Teacher?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δάσκαλε;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "How about you?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Εσύ πώς",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "How are you?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Εσύ πώς είσαι,",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "How are you, teacher?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Εσύ πώς είσαι, δάσκαλε;",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "So-so.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Έτσι κι έτσι.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Q",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τσι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "That's it.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "έτσι.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τσι κι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "And so.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "τσι κι έτσι.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "What about you, Maria?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Εσύ, Μαρία;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "You,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Εσύ,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Maria?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Μαρία;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "What about you, Maria?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Εσύ, Μαρία;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Same.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Τα ίδια.",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Same.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ίδια.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Same.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα ίδια.",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Nice to meet you for the new student.",
+          "count": 1,
+          "pause": 4.0
+        },
+        "greek": {
+          "text": "Χαίρω πολύ για τη νέα μαθήτρια.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Nice to meet you.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Χαίρω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Very",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πολύ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "for",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "για",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "new",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "νέα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "student.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μαθήτρια.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Nice to meet you.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Χαίρω πολύ",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Nice to meet you.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Χαίρω πολύ για",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Nice to meet you.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Χαίρω πολύ για τη",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Nice to meet you for the new one.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Χαίρω πολύ για τη νέα",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Nice to meet you for the new student.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Χαίρω πολύ για τη νέα μαθήτρια.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "So, what do we do today?",
+          "count": 1,
+          "pause": 3.0
+        },
+        "greek": {
+          "text": "Λοιπόν, τι κάνουμε σήμερα;",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Well,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Λοιπόν,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "What?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "do",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κάνουμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Today?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σήμερα;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "So what?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Λοιπόν, τι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Well, what do we do?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Λοιπόν, τι κάνουμε",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "So, what do we do today?",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Λοιπόν, τι κάνουμε σήμερα;",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "We repeat: I stay, you stay, he stays... We stay, you stay, they stay.",
+          "count": 1,
+          "pause": 7.0
+        },
+        "greek": {
+          "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε).",
+          "count": 3,
+          "pause": 7.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "We do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Κάνουμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "repeat:",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "επανάληψη:",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "εγώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm staying,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "μένω,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εσύ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You stay,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "μένεις,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "This one.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "αυτός",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Stays",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "εμείς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We stay,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "μένουμε,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εσείς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Stay,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένετε,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "These",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αυτοί",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "(",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένουν(",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "(e).",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ε).",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "We repeat:",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη:",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We do it again: me",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω,",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις,",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he stays",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he stays us",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει εμείς",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he stays,",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει εμείς μένουμε,",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he stays, you stay, you",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει εμείς μένουμε, εσείς",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We do it again: I stay, you stay, he stays, you stay,",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει εμείς μένουμε, εσείς μένετε,",
+            "count": 3,
+            "pause": 6.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he stays, you stay, they stay, they stay.",
+            "count": 1,
+            "pause": 7.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει εμείς μένουμε, εσείς μένετε, αυτοί",
+            "count": 3,
+            "pause": 6.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he stays we stay, you stay, they stay.",
+            "count": 1,
+            "pause": 7.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει εμείς μένουμε, εσείς μένετε, αυτοί μένουν(",
+            "count": 3,
+            "pause": 7.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We repeat: I stay, you stay, he stays, you stay, they stay.",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει εμείς μένουμε, εσείς μένετε, αυτοί μένουν( ε).",
+            "count": 3,
+            "pause": 7.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Right.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Σωστά.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Right.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Σωστά.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "What about \"I have\"?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Και με το «έχω»;",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "And",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "with",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "με",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I have'?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "έχω»;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "And with",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Και με",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "And with the",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Και με το",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "And with it'?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Και με το έχω»;",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I have a book, you have a pencil, he has a notebook.",
+          "count": 1,
+          "pause": 6.0
+        },
+        "greek": {
+          "text": "Έχω βιβλίο, έχεις μολύβι, έχει τετράδιο.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I got it.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "χω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "a book,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "βιβλίο,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "You have",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "έχεις",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "pencil,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μολύβι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "has",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "έχει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "notebook.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τετράδιο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I have a book,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "χω βιβλίο,",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I got a book, you got a book.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "χω βιβλίο, έχεις",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I got a book, you got a pencil,",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "χω βιβλίο, έχεις μολύβι,",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I have a book, you have a pencil, you have a book.",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "χω βιβλίο, έχεις μολύβι, έχει",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I have a book, you have a pencil, he has a notebook.",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "χω βιβλίο, έχεις μολύβι, έχει τετράδιο.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "We have exercise, you have time, no problem.",
+          "count": 1,
+          "pause": 4.0
+        },
+        "greek": {
+          "text": "Έχουμε άσκηση, έχετε χρόνο, δεν έχουν πρόβλημα.",
+          "count": 3,
+          "pause": 3.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "we have",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "χουμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "exercise,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "άσκηση,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "you have",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "έχετε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "time,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "χρόνο,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "no",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "have",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "έχουν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Problem.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πρόβλημα.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "We have a drill,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "χουμε άσκηση,",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We have exercise, you have",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "χουμε άσκηση, έχετε",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We have exercise, you have time,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "χουμε άσκηση, έχετε χρόνο,",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We have exercise, you have time, we don't",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "χουμε άσκηση, έχετε χρόνο, δεν",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We have exercise, you have time, they don't have",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "χουμε άσκηση, έχετε χρόνο, δεν έχουν",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We have exercise, you have time, no problem.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "χουμε άσκηση, έχετε χρόνο, δεν έχουν πρόβλημα.",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Good.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Ωραία.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Good.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ωραία.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Good morning, good evening, good evening, see you, goodbye.",
+          "count": 1,
+          "pause": 4.5
+        },
+        "greek": {
+          "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ, Τα λέμε, Αντίο.",
+          "count": 3,
+          "pause": 6.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Let's go.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πάμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "In",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στους",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Greetings:",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "χαιρετισμούς:",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Hey,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Γεια,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good morning,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Καλημέρα,",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good evening,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Καλησπέρα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Καλό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "evening,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "βράδυ,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Say,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λέμε,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Bye.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αντίο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Let's go.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πάμε και",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Let's go to",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Πάμε και στους",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Let's go say hello.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς:",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Let's go say hello. Hey,",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Let's go say hello. Hello, good morning,",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα,",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Let's go say hello, good morning, good evening,",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα,",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good morning, good evening, good evening.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good morning, good evening, good evening.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ,",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good morning, good evening, good evening.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ, Τα",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good morning, good evening, good evening. See you later.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ, Τα λέμε,",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Good morning, good evening, good evening, see you, goodbye.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ, Τα λέμε, Αντίο.",
+            "count": 3,
+            "pause": 6.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Fine!",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Μια χαρά!",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "One",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Μια",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Joy!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "χαρά!",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Fine!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Μια χαρά!",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Let's move on.",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Πάμε παρακάτω.",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Let's go.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πάμε",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "below.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "παρακάτω.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Let's move on.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Πάμε παρακάτω.",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    }
+  ],
+  "sentences": [
+    {
+      "english": {
+        "text": "In class",
+        "count": 1,
+        "pause": 2.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα»",
+        "count": 1,
+        "pause": 1.0,
+        "repeat": false
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys.",
+        "count": 1,
+        "pause": 2.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά.",
+        "count": 3,
+        "pause": 2.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing?",
+        "count": 1,
+        "pause": 4.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε;",
+        "count": 3,
+        "pause": 3.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well!",
+        "count": 1,
+        "pause": 5.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά!",
+        "count": 3,
+        "pause": 4.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher?",
+        "count": 1,
+        "pause": 7.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε;",
+        "count": 3,
+        "pause": 6.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so.",
+        "count": 1,
+        "pause": 8.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι.",
+        "count": 3,
+        "pause": 7.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so.",
+        "count": 1,
+        "pause": 8.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία;",
+        "count": 3,
+        "pause": 8.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same.",
+        "count": 1,
+        "pause": 8.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια.",
+        "count": 3,
+        "pause": 9.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student.",
+        "count": 1,
+        "pause": 12.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια.",
+        "count": 3,
+        "pause": 12.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today?",
+        "count": 1,
+        "pause": 15.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα;",
+        "count": 3,
+        "pause": 14.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay.",
+        "count": 1,
+        "pause": 22.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε).",
+        "count": 3,
+        "pause": 21.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right.",
+        "count": 1,
+        "pause": 23.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά.",
+        "count": 3,
+        "pause": 22.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right. What about \"I have\"?",
+        "count": 1,
+        "pause": 25.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά. Και με το «έχω»;",
+        "count": 3,
+        "pause": 24.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right. What about \"I have\"? I have a book, you have a pencil, he has a notebook.",
+        "count": 1,
+        "pause": 31.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά. Και με το «έχω»; Έχω βιβλίο, έχεις μολύβι, έχει τετράδιο.",
+        "count": 3,
+        "pause": 27.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right. What about \"I have\"? I have a book, you have a pencil, he has a notebook. We have exercise, you have time, no problem.",
+        "count": 1,
+        "pause": 35.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά. Και με το «έχω»; Έχω βιβλίο, έχεις μολύβι, έχει τετράδιο. Έχουμε άσκηση, έχετε χρόνο, δεν έχουν πρόβλημα.",
+        "count": 3,
+        "pause": 30.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right. What about \"I have\"? I have a book, you have a pencil, he has a notebook. We have exercise, you have time, no problem. Good.",
+        "count": 1,
+        "pause": 35.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά. Και με το «έχω»; Έχω βιβλίο, έχεις μολύβι, έχει τετράδιο. Έχουμε άσκηση, έχετε χρόνο, δεν έχουν πρόβλημα. Ωραία.",
+        "count": 3,
+        "pause": 31.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right. What about \"I have\"? I have a book, you have a pencil, he has a notebook. We have exercise, you have time, no problem. Good. Good morning, good evening, good evening, see you, goodbye.",
+        "count": 1,
+        "pause": 40.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά. Και με το «έχω»; Έχω βιβλίο, έχεις μολύβι, έχει τετράδιο. Έχουμε άσκηση, έχετε χρόνο, δεν έχουν πρόβλημα. Ωραία. Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ, Τα λέμε, Αντίο.",
+        "count": 3,
+        "pause": 37.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right. What about \"I have\"? I have a book, you have a pencil, he has a notebook. We have exercise, you have time, no problem. Good. Good morning, good evening, good evening, see you, goodbye. Fine!",
+        "count": 1,
+        "pause": 40.5
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά. Και με το «έχω»; Έχω βιβλίο, έχεις μολύβι, έχει τετράδιο. Έχουμε άσκηση, έχετε χρόνο, δεν έχουν πρόβλημα. Ωραία. Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ, Τα λέμε, Αντίο. Μια χαρά!",
+        "count": 3,
+        "pause": 38.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In class\" Good morning, guys. What are you doing? Very well! How are you, teacher? So-so. Same. Nice to meet you for the new student. So, what do we do today? We repeat: I stay, you stay, he stays... We stay, you stay, they stay. Right. What about \"I have\"? I have a book, you have a pencil, he has a notebook. We have exercise, you have time, no problem. Good. Good morning, good evening, good evening, see you, goodbye. Fine! Let's move on.",
+        "count": 1,
+        "pause": 42.0
+      },
+      "greek": {
+        "text": "«Στο μάθημα» Καλημέρα, παιδιά. Τι κάνετε; Πολύ καλά! Εσύ πώς είσαι, δάσκαλε; Έτσι κι έτσι. Εσύ, Μαρία; Τα ίδια. Χαίρω πολύ για τη νέα μαθήτρια. Λοιπόν, τι κάνουμε σήμερα; Κάνουμε επανάληψη: εγώ μένω, εσύ μένεις, αυτός μένει· εμείς μένουμε, εσείς μένετε, αυτοί μένουν(ε). Σωστά. Και με το «έχω»; Έχω βιβλίο, έχεις μολύβι, έχει τετράδιο. Έχουμε άσκηση, έχετε χρόνο, δεν έχουν πρόβλημα. Ωραία. Πάμε και στους χαιρετισμούς: Γεια, Καλημέρα, Καλησπέρα, Καλό βράδυ, Τα λέμε, Αντίο. Μια χαρά! Πάμε παρακάτω.",
+        "count": 3,
+        "pause": 39.0,
+        "repeat": true
+      },
+      "role": "A"
+    }
+  ]
+}

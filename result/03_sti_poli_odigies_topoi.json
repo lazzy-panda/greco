@@ -1,0 +1,3665 @@
+{
+  "data": [
+    {
+      "sentence": {
+        "english": {
+          "text": "‘In the City’",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "«Στην πόλη»",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Στην",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "city’",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πόλη»",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "In the city’",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Στην πόλη»",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Sorry, I'm looking for the cinema.",
+          "count": 1,
+          "pause": 3.0
+        },
+        "greek": {
+          "text": "Συγγνώμη, ψάχνω τον κινηματογράφο.",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Sorry.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Συγγνώμη,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm looking.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "ψάχνω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τον",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "cinema.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κινηματογράφο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Sorry, I'm looking.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Συγγνώμη, ψάχνω",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Sorry, I'm looking for him.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Συγγνώμη, ψάχνω τον",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Sorry, I'm looking for the cinema.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Συγγνώμη, ψάχνω τον κινηματογράφο.",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Where is it?",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Πού είναι;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Where?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πού",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is it?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "είναι;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Where is it?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Πού είναι;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "He's in the square by the bank.",
+          "count": 1,
+          "pause": 3.5
+        },
+        "greek": {
+          "text": "Είναι στην πλατεία, δίπλα στην τράπεζα.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "It is.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είναι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "square,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πλατεία,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "next door",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "δίπλα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Bank.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τράπεζα.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "It's on the",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Είναι στην",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "He's in the square,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Είναι στην πλατεία,",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "He's in the square next door.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Είναι στην πλατεία, δίπλα",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "It's in the square, next to",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Είναι στην πλατεία, δίπλα στην",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "He's in the square by the bank.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Είναι στην πλατεία, δίπλα στην τράπεζα.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Are you taking the subway or the bus?",
+          "count": 1,
+          "pause": 4.0
+        },
+        "greek": {
+          "text": "Πας με το μετρό ή με το λεωφορείο;",
+          "count": 3,
+          "pause": 4.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "You go.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "with",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "με",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Subway",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μετρό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "or",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ή",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "with",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "με",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Bus?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λεωφορείο;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Take me.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πας με",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You go with the",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Πας με το",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You're taking the subway.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Πας με το μετρό",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You go by metro or",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Πας με το μετρό ή",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You go by metro or by",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Πας με το μετρό ή με",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You go by metro or by",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Πας με το μετρό ή με το",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Are you taking the subway or the bus?",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Πας με το μετρό ή με το λεωφορείο;",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I prefer the bus.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Προτιμώ το λεωφορείο.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I prefer.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Προτιμώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Bus.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λεωφορείο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I prefer it.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Προτιμώ το",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I prefer the bus.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Προτιμώ το λεωφορείο.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Which one do I get from here?",
+          "count": 1,
+          "pause": 3.5
+        },
+        "greek": {
+          "text": "Από εδώ ποιο παίρνω;",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "From",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Από",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Here.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εδώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "which",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ποιο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Do I?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "παίρνω;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "This way.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Από εδώ",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "From here which one?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Από εδώ ποιο",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Which one do I get from here?",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Από εδώ ποιο παίρνω;",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Take 21 or 27.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Πάρε το 21 ή το 27.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Here.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πάρε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "or",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ή",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Take it.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πάρε το",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Take it or",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Πάρε το ή",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Take it or take it.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Πάρε το ή το",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "12 goes to port and 66 to Harilau.",
+          "count": 1,
+          "pause": 4.0
+        },
+        "greek": {
+          "text": "Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου.",
+          "count": 3,
+          "pause": 5.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Go",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πάει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "port",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λιμάνι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Harilaw.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Χαριλάου.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "He's doing it.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το πάει",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "He's taking it to",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το πάει στο",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "He's taking it to the port.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Το πάει στο λιμάνι",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "He takes it to the harbor and",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το πάει στο λιμάνι και",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "It takes it to the port and the",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Το πάει στο λιμάνι και το",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "He's taking it to the port and the port.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Το πάει στο λιμάνι και το στο",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "He takes it to the harbor and Harilau.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Το πάει στο λιμάνι και το στο Χαριλάου.",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "83 goes to Thessaloniki–Lagadas.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς.",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Go",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πάει",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "for",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "για",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Thessaloniki",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Θεσσαλονίκη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Lagadas.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Λαγκαδάς.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "He's doing it.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το πάει",
+            "count": 1,
+            "pause": 1.0,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "It's going for",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το πάει για",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "He's going to Thessaloniki.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το πάει για Θεσσαλονίκη",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "He's going to Thessaloniki, Lagadas.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Το πάει για Θεσσαλονίκη Λαγκαδάς.",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "And where's the stop?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Κι η στάση πού είναι;",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "And",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "η",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "stop",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στάση",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "where",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πού",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Is it?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "είναι;",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "And the",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Κι η",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "And the attitude",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Κι η στάση",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "And the attitude where",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Κι η στάση πού",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "And where's the stop?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Κι η στάση πού είναι;",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "On the corner of 16 Pontu Street.",
+          "count": 1,
+          "pause": 3.5
+        },
+        "greek": {
+          "text": "Στη γωνία της οδού Πόντου 16.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Στη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "angle",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "γωνία",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "της",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Road",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "οδού",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Pontus",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πόντου",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "In the corner",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Στη γωνία",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "In her corner",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Στη γωνία της",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "On the corner of the road",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Στη γωνία της οδού",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "On the corner of Pontu Street",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Στη γωνία της οδού Πόντου",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "If you want the hospital, it's behind the school.",
+          "count": 1,
+          "pause": 4.5
+        },
+        "greek": {
+          "text": "Αν θες το νοσοκομείο, είναι πίσω από το σχολείο.",
+          "count": 3,
+          "pause": 4.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "If",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "You want",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "θες",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "hospital,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "νοσοκομείο,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "back",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πίσω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "School.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σχολείο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "If you want",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Αν θες",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "If you want it",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Αν θες το",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "If you want the hospital,",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Αν θες το νοσοκομείο,",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "If you want the hospital, it is.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Αν θες το νοσοκομείο, είναι",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "If you want the hospital, it's back.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Αν θες το νοσοκομείο, είναι πίσω",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "If you want the hospital, it's behind it.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Αν θες το νοσοκομείο, είναι πίσω από",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "If you want the hospital, it's behind it.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Αν θες το νοσοκομείο, είναι πίσω από το",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "If you want the hospital, it's behind the school.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Αν θες το νοσοκομείο, είναι πίσω από το σχολείο.",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Is there a nearby tavern or oven?",
+          "count": 1,
+          "pause": 3.5
+        },
+        "greek": {
+          "text": "Υπάρχει κοντά ταβέρνα ή φούρνος;",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "There is.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Υπάρχει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "close",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κοντά",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "tavern",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ταβέρνα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "or",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ή",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "A bakery?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "φούρνος;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "There's close",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Υπάρχει κοντά",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "There's a nearby tavern",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Υπάρχει κοντά ταβέρνα",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "There is a nearby tavern or",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Υπάρχει κοντά ταβέρνα ή",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Is there a nearby tavern or oven?",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Υπάρχει κοντά ταβέρνα ή φούρνος;",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Yeah, a tavern across from the pharmacy and an oven by the stand.",
+          "count": 1,
+          "pause": 6.5
+        },
+        "greek": {
+          "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο.",
+          "count": 3,
+          "pause": 6.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Yeah.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ναι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "One",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μια",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "tavern",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ταβέρνα",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "across",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "απέναντι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "from",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "από",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "pharmacy",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "φαρμακείο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "one",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ένας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "oven",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "φούρνος",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "next door",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "δίπλα",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "booth.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "περίπτερο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Yes, one.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ναι, μια",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, a tavern",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yeah, a tavern across the street.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, a tavern across the street",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, a tavern across the street",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yeah, a tavern across from the pharmacy.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, a tavern across from the pharmacy and",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο και",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, a tavern across from the pharmacy and one",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yeah, a tavern across from the pharmacy and a bakery.",
+            "count": 1,
+            "pause": 5.0
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yeah, a tavern across from the pharmacy and a bakery next door.",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, a tavern across the pharmacy and an oven next to",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο",
+            "count": 3,
+            "pause": 6.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yeah, a tavern across from the pharmacy and an oven by the stand.",
+            "count": 1,
+            "pause": 6.5
+          },
+          "greek": {
+            "text": "Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο.",
+            "count": 3,
+            "pause": 6.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "What about the museum or the theater?",
+          "count": 1,
+          "pause": 3.5
+        },
+        "greek": {
+          "text": "Και το μουσείο ή το θέατρο;",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "And",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "museum",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μουσείο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "or",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ή",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "theater?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "θέατρο;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "And the",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Και το",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "And the museum",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Και το μουσείο",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "And the museum or",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Και το μουσείο ή",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "And the museum or the",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Και το μουσείο ή το",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "What about the museum or the theater?",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Και το μουσείο ή το θέατρο;",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "The museum is near the hotel, and the theatre next to the restaurant.",
+          "count": 1,
+          "pause": 6.5
+        },
+        "greek": {
+          "text": "Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο.",
+          "count": 3,
+          "pause": 6.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "museum",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μουσείο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "close",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κοντά",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "hotel,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ξενοδοχείο,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "theatre",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "θέατρο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "next door",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "δίπλα",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "restaurant.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εστιατόριο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The museum",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το μουσείο",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το μουσείο είναι",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is close.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is close to",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is near the hotel,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο ξενοδοχείο,",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is near the hotel, and",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο ξενοδοχείο, και",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is near the hotel, and the",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο ξενοδοχείο, και το",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is near the hotel, and the theatre",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is near the hotel, and the theatre next door",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is near the hotel, and the theatre next to",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The museum is near the hotel, and the theatre next to the restaurant.",
+            "count": 1,
+            "pause": 6.5
+          },
+          "greek": {
+            "text": "Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο.",
+            "count": 3,
+            "pause": 6.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "There's tickets in the corner shop.",
+          "count": 1,
+          "pause": 3.0
+        },
+        "greek": {
+          "text": "Στο μαγαζί της γωνίας έχει εισιτήρια.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Στο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Store",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μαγαζί",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "της",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "angle",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "γωνίας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "has",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "έχει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "tickets.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εισιτήρια.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "At the store.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Στο μαγαζί",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "In her shop.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Στο μαγαζί της",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "In the corner shop.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Στο μαγαζί της γωνίας",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "In the corner shop, there is",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Στο μαγαζί της γωνίας έχει",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "There's tickets in the corner shop.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Στο μαγαζί της γωνίας έχει εισιτήρια.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Thank you very much.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Ευχαριστώ πολύ.",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Thank you.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ευχαριστώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Very.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πολύ.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Thank you very much.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ευχαριστώ πολύ.",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "See you!",
+          "count": 1,
+          "pause": 1.0
+        },
+        "greek": {
+          "text": "Τα λέμε!",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Say!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λέμε!",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "See you!",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Τα λέμε!",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Thank you.",
+          "count": 1,
+          "pause": 1.0
+        },
+        "greek": {
+          "text": "Να ’σαι καλά.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Here.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Να",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "ed",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σαι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Fine.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "καλά.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "There you are.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Να σαι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Thank you.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Να σαι καλά.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Bye.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Αντίο.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Bye.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αντίο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    }
+  ],
+  "sentences": [
+    {
+      "english": {
+        "text": "‘In the City’",
+        "count": 1,
+        "pause": 1.5
+      },
+      "greek": {
+        "text": "«Στην πόλη»",
+        "count": 1,
+        "pause": 1.0,
+        "repeat": false
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema.",
+        "count": 1,
+        "pause": 5.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο.",
+        "count": 3,
+        "pause": 3.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it?",
+        "count": 1,
+        "pause": 6.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι;",
+        "count": 3,
+        "pause": 4.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank.",
+        "count": 1,
+        "pause": 10.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα.",
+        "count": 3,
+        "pause": 7.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus?",
+        "count": 1,
+        "pause": 14.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο;",
+        "count": 3,
+        "pause": 11.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus.",
+        "count": 1,
+        "pause": 16.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο.",
+        "count": 3,
+        "pause": 12.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here?",
+        "count": 1,
+        "pause": 19.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω;",
+        "count": 3,
+        "pause": 14.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27.",
+        "count": 1,
+        "pause": 21.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27.",
+        "count": 3,
+        "pause": 17.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau.",
+        "count": 1,
+        "pause": 25.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου.",
+        "count": 3,
+        "pause": 22.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas.",
+        "count": 1,
+        "pause": 27.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς.",
+        "count": 3,
+        "pause": 25.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop?",
+        "count": 1,
+        "pause": 29.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι;",
+        "count": 3,
+        "pause": 27.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? On the corner of 16 Pontu Street.",
+        "count": 1,
+        "pause": 32.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16.",
+        "count": 3,
+        "pause": 30.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school.",
+        "count": 1,
+        "pause": 33.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο.",
+        "count": 3,
+        "pause": 35.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven?",
+        "count": 1,
+        "pause": 37.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος;",
+        "count": 3,
+        "pause": 37.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand.",
+        "count": 1,
+        "pause": 43.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο.",
+        "count": 3,
+        "pause": 44.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand. What about the museum or the theater?",
+        "count": 1,
+        "pause": 47.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο. Και το μουσείο ή το θέατρο;",
+        "count": 3,
+        "pause": 47.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand. What about the museum or the theater? The museum is near the hotel, and the theatre next to the restaurant.",
+        "count": 1,
+        "pause": 53.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο. Και το μουσείο ή το θέατρο; Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο.",
+        "count": 3,
+        "pause": 53.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand. What about the museum or the theater? The museum is near the hotel, and the theatre next to the restaurant. There's tickets in the corner shop.",
+        "count": 1,
+        "pause": 56.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο. Και το μουσείο ή το θέατρο; Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο. Στο μαγαζί της γωνίας έχει εισιτήρια.",
+        "count": 3,
+        "pause": 56.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand. What about the museum or the theater? The museum is near the hotel, and the theatre next to the restaurant. There's tickets in the corner shop. Thank you very much.",
+        "count": 1,
+        "pause": 58.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο. Και το μουσείο ή το θέατρο; Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο. Στο μαγαζί της γωνίας έχει εισιτήρια. Ευχαριστώ πολύ.",
+        "count": 3,
+        "pause": 57.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand. What about the museum or the theater? The museum is near the hotel, and the theatre next to the restaurant. There's tickets in the corner shop. Thank you very much. See you!",
+        "count": 1,
+        "pause": 59.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο. Και το μουσείο ή το θέατρο; Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο. Στο μαγαζί της γωνίας έχει εισιτήρια. Ευχαριστώ πολύ. Τα λέμε!",
+        "count": 3,
+        "pause": 58.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand. What about the museum or the theater? The museum is near the hotel, and the theatre next to the restaurant. There's tickets in the corner shop. Thank you very much. See you! Thank you.",
+        "count": 1,
+        "pause": 60.5
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο. Και το μουσείο ή το θέατρο; Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο. Στο μαγαζί της γωνίας έχει εισιτήρια. Ευχαριστώ πολύ. Τα λέμε! Να ’σαι καλά.",
+        "count": 3,
+        "pause": 59.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the city\" Sorry, I'm looking for the cinema. Where is it? He's in the square by the bank. Are you taking the subway or the bus? I prefer the bus. What do I get from here? Take 21 or 27, 12 goes to port and 66 to Harilau. 83 goes to Thessaloniki–Lagadas. And where's the stop? If you want the hospital, it's behind the school. Is there a nearby tavern or oven? Yeah, a tavern across from the pharmacy and an oven by the stand. What about the museum or the theater? The museum is near the hotel, and the theatre next to the restaurant. There's tickets in the corner shop. Thank you very much. See you! Thank you. Bye.",
+        "count": 1,
+        "pause": 61.0
+      },
+      "greek": {
+        "text": "«Στην πόλη» Συγγνώμη, ψάχνω τον κινηματογράφο. Πού είναι; Είναι στην πλατεία, δίπλα στην τράπεζα. Πας με το μετρό ή με το λεωφορείο; Προτιμώ το λεωφορείο. Από εδώ ποιο παίρνω; Πάρε το 21 ή το 27. Το 12 πάει στο λιμάνι και το 66 στο Χαριλάου. Το 83 πάει για Θεσσαλονίκη–Λαγκαδάς. Κι η στάση πού είναι; Στη γωνία της οδού Πόντου 16. Αν θες το νοσοκομείο, είναι πίσω από το σχολείο. Υπάρχει κοντά ταβέρνα ή φούρνος; Ναι, μια ταβέρνα απέναντι από το φαρμακείο και ένας φούρνος δίπλα στο περίπτερο. Και το μουσείο ή το θέατρο; Το μουσείο είναι κοντά στο ξενοδοχείο, και το θέατρο δίπλα στο εστιατόριο. Στο μαγαζί της γωνίας έχει εισιτήρια. Ευχαριστώ πολύ. Τα λέμε! Να ’σαι καλά. Αντίο.",
+        "count": 3,
+        "pause": 60.0,
+        "repeat": true
+      },
+      "role": "B"
+    }
+  ]
+}

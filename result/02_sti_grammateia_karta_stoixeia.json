@@ -1,0 +1,3263 @@
+{
+  "data": [
+    {
+      "sentence": {
+        "english": {
+          "text": "At the registrar's office",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "«Στη γραμματεία»",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "At the",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Στη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "registrar's office",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "γραμματεία»",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "At the registrar's office",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Στη γραμματεία»",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Morning.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Καλημέρα.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Morning.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Καλημέρα.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "What's your name?",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Πώς λέγεστε;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "How",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πώς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Hello?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λέγεστε;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "What's your name?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Πώς λέγεστε;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "My name is Fu Chen.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Με λένε Φου Τσεν.",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Narin",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Με",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "They say",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "λένε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Fu",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Φου",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Chen.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τσεν.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "My name is",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Με λένε",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My name is Fu.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Με λένε Φου",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My name is Fu Chen.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Με λένε Φου Τσεν.",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "You?",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Εσείς;",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "You?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Εσείς;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I'm the secretary.",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Είμαι η γραμματέας.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I am.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είμαι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "η",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "secretary.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "γραμματέας.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I'm the",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Είμαι η",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm the secretary.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Είμαι η γραμματέας.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Where do you live, Mr. Chen?",
+          "count": 1,
+          "pause": 3.0
+        },
+        "greek": {
+          "text": "Πού μένετε, κύριε Τσεν;",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Where?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πού",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Stay,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένετε,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Sir",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κύριε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Chen?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τσεν;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Where do you live?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Πού μένετε,",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Where do you live, sir?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Πού μένετε, κύριε",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Where do you live, Mr. Chen?",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Πού μένετε, κύριε Τσεν;",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I live in Kypseli, Athens.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Μένω στην Αθήνα, στην Κυψέλη.",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I live",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Μένω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "in",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Athens,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αθήνα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "in",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Kypseli.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κυψέλη.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I live in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Μένω στην",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I live in Kypseli,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Μένω στην Αθήνα,",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I live in Kypseli,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Μένω στην Αθήνα, στην",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I live in Kypseli, Athens.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Μένω στην Αθήνα, στην Κυψέλη.",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Address: Cyclades 29.",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Διεύθυνση: Κυκλάδων 29.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Address:",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Διεύθυνση:",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Cyclades",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κυκλάδων",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Address: Cyclades",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Διεύθυνση: Κυκλάδων",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Hipseli District, T.",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Περιοχή Κυψέλη, Τ.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Region",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Περιοχή",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Blister,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κυψέλη,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "T.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τ.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Hipseli District,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Περιοχή Κυψέλη,",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Hipseli District, T.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Περιοχή Κυψέλη, Τ.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "K.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Κ.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "K.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κ.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "10785.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "10785.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Where exactly is he?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Πού ακριβώς βρίσκεται;",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Where?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πού",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Exactly.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ακριβώς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Is it located?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "βρίσκεται;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Where exactly?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Πού ακριβώς",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Where exactly is he?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Πού ακριβώς βρίσκεται;",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Near the square and the subway.",
+          "count": 1,
+          "pause": 3.0
+        },
+        "greek": {
+          "text": "Κοντά στην πλατεία και στο μετρό.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Close",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κοντά",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "square",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πλατεία",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Subway.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μετρό.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Close to",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Κοντά στην",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Near the square",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Κοντά στην πλατεία",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Near the square and",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Κοντά στην πλατεία και",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Near the square and in",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Κοντά στην πλατεία και στο",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Near the square and the subway.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Κοντά στην πλατεία και στο μετρό.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "My house is on the third floor.",
+          "count": 1,
+          "pause": 3.5
+        },
+        "greek": {
+          "text": "Το σπίτι μου είναι στον τρίτο όροφο.",
+          "count": 3,
+          "pause": 3.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Home",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σπίτι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στον",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "third",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τρίτο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Floor.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "όροφο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The house.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το σπίτι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My home.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το σπίτι μου",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "It's my house.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το σπίτι μου είναι",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My house is in",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το σπίτι μου είναι στον",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My house is on the third floor.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το σπίτι μου είναι στον τρίτο",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My house is on the third floor.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το σπίτι μου είναι στον τρίτο όροφο.",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Do you have a phone?",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Έχετε τηλέφωνο;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "you have",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "χετε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "A phone?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "τηλέφωνο;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Do you have a phone?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "χετε τηλέφωνο;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Yes, my landline is 2108230987 and my cell phone is 6972132111.",
+          "count": 1,
+          "pause": 5.5
+        },
+        "greek": {
+          "text": "Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111.",
+          "count": 3,
+          "pause": 5.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Yeah.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ναι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "fixed",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σταθερό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "mobile",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κινητό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Yes, the",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ναι, το",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, the fixed",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ναι, το σταθερό",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, my constant.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ναι, το σταθερό μου",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, my constant is",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ναι, το σταθερό μου είναι",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, my constant is and",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Ναι, το σταθερό μου είναι και",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, my constant is also my",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Ναι, το σταθερό μου είναι και το",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yeah, my landline is also my cell phone.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Ναι, το σταθερό μου είναι και το κινητό",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yeah, my landline is my phone.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Ναι, το σταθερό μου είναι και το κινητό μου",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I'm writing down your phone number.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Το τηλέφωνό σας το σημειώνω.",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I'm",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "writing",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τηλέφωνό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "down",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "your",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "phone number.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "σημειώνω.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I'm writing",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το τηλέφωνό",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm writing down",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το τηλέφωνό σας",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm writing down your",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το τηλέφωνό σας το",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm writing down your phone number.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Το τηλέφωνό σας το σημειώνω.",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Do you have an email?",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Έχετε κι ένα e‑mail;",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Do",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "χετε",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "you",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "have",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ένα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "an",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "e",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "email?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "mail;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Do you",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "χετε κι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Do you have",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "χετε κι ένα",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Do you have an",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "χετε κι ένα e",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Do you have an email?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "χετε κι ένα e mail;",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I don't have an email.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Δεν έχω e‑mail.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Δεν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "don't",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "έχω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "have",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "e",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "an email.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "mail.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I don't have",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Δεν έχω",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I don't have an",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Δεν έχω e",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I don't have an email.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Δεν έχω e mail.",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I only have a phone.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Έχω μόνο τηλέφωνο.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I got it.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "χω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "single",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μόνο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Phone.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τηλέφωνο.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I only have one.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "χω μόνο",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I only have a phone.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "χω μόνο τηλέφωνο.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Professional? What are you doing?",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Επάγγελμα; Τι κάνετε;",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Professional?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Επάγγελμα;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "What?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Do you?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "κάνετε;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Professional? What?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Επάγγελμα; Τι",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Professional? What are you doing?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Επάγγελμα; Τι κάνετε;",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I'm taking Greek lessons.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Κάνω μαθήματα ελληνικών.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Κάνω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "courses",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μαθήματα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Greek.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ελληνικών.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I'm taking classes.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Κάνω μαθήματα",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I'm taking Greek lessons.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Κάνω μαθήματα ελληνικών.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Do you have my number?",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Εσείς έχετε τον αριθμό μου;",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "You.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Εσείς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "you have",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "έχετε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τον",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "number",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αριθμό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "You do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εσείς έχετε",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "You have him",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Εσείς έχετε τον",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "You have the number.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Εσείς έχετε τον αριθμό",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Do you have my number?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Εσείς έχετε τον αριθμό μου;",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Yes, that's your phone number.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Ναι, το τηλέφωνό σας είναι αυτό.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Yes,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ναι,",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "that's",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "your",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τηλέφωνό",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "phone",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σας",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "number",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": ".",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αυτό.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Yes, that's",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ναι, το",
+            "count": 1,
+            "pause": 1.0,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, that's your",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ναι, το τηλέφωνό",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, that's your phone",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ναι, το τηλέφωνό σας",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, that's your phone number",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ναι, το τηλέφωνό σας είναι",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Yes, that's your phone number.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Ναι, το τηλέφωνό σας είναι αυτό.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Sign here, please.",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Υπογράψτε εδώ, παρακαλώ.",
+          "count": 3,
+          "pause": 1.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Sign",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Υπογράψτε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Here,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εδώ,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Please.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "παρακαλώ.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Sign here,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Υπογράψτε εδώ,",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Sign here, please.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Υπογράψτε εδώ, παρακαλώ.",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Thank you very much.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Ευχαριστώ πολύ.",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Thank you.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ευχαριστώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Very.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πολύ.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Thank you very much.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ευχαριστώ πολύ.",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Hello!",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Γεια σας!",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Hello.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Γεια",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "You!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σας!",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Hello!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Γεια σας!",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    }
+  ],
+  "sentences": [
+    {
+      "english": {
+        "text": "At the registrar's office",
+        "count": 1,
+        "pause": 1.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία»",
+        "count": 1,
+        "pause": 1.0,
+        "repeat": false
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning.",
+        "count": 1,
+        "pause": 2.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα.",
+        "count": 3,
+        "pause": 1.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name?",
+        "count": 1,
+        "pause": 3.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε;",
+        "count": 3,
+        "pause": 2.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen.",
+        "count": 1,
+        "pause": 6.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν.",
+        "count": 3,
+        "pause": 4.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen.",
+        "count": 1,
+        "pause": 6.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς;",
+        "count": 3,
+        "pause": 5.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary.",
+        "count": 1,
+        "pause": 7.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας.",
+        "count": 3,
+        "pause": 6.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen?",
+        "count": 1,
+        "pause": 10.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν;",
+        "count": 3,
+        "pause": 8.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens.",
+        "count": 1,
+        "pause": 13.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη.",
+        "count": 3,
+        "pause": 11.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29.",
+        "count": 1,
+        "pause": 14.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29.",
+        "count": 3,
+        "pause": 12.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Region, T.",
+        "count": 1,
+        "pause": 16.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ.",
+        "count": 3,
+        "pause": 14.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K.",
+        "count": 1,
+        "pause": 16.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ.",
+        "count": 3,
+        "pause": 14.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785.",
+        "count": 1,
+        "pause": 17.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785.",
+        "count": 3,
+        "pause": 15.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he?",
+        "count": 1,
+        "pause": 19.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται;",
+        "count": 3,
+        "pause": 16.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway.",
+        "count": 1,
+        "pause": 22.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό.",
+        "count": 3,
+        "pause": 19.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor.",
+        "count": 1,
+        "pause": 25.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο.",
+        "count": 3,
+        "pause": 23.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone?",
+        "count": 1,
+        "pause": 28.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο;",
+        "count": 3,
+        "pause": 24.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111.",
+        "count": 1,
+        "pause": 33.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111.",
+        "count": 3,
+        "pause": 29.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number.",
+        "count": 1,
+        "pause": 36.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω.",
+        "count": 3,
+        "pause": 32.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email?",
+        "count": 1,
+        "pause": 38.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail;",
+        "count": 3,
+        "pause": 34.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email.",
+        "count": 1,
+        "pause": 41.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail.",
+        "count": 3,
+        "pause": 35.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone.",
+        "count": 1,
+        "pause": 43.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο.",
+        "count": 3,
+        "pause": 37.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone. Professional? What are you doing?",
+        "count": 1,
+        "pause": 46.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο. Επάγγελμα; Τι κάνετε;",
+        "count": 3,
+        "pause": 38.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone. Professional? What are you doing? I'm taking Greek lessons.",
+        "count": 1,
+        "pause": 48.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο. Επάγγελμα; Τι κάνετε; Κάνω μαθήματα ελληνικών.",
+        "count": 3,
+        "pause": 40.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone. Professional? What are you doing? I'm taking Greek lessons. Do you have my number?",
+        "count": 1,
+        "pause": 50.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο. Επάγγελμα; Τι κάνετε; Κάνω μαθήματα ελληνικών. Εσείς έχετε τον αριθμό μου;",
+        "count": 3,
+        "pause": 42.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone. Professional? What are you doing? I'm taking Greek lessons. Do you have my number? Yes, that's your phone number.",
+        "count": 1,
+        "pause": 53.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο. Επάγγελμα; Τι κάνετε; Κάνω μαθήματα ελληνικών. Εσείς έχετε τον αριθμό μου; Ναι, το τηλέφωνό σας είναι αυτό.",
+        "count": 3,
+        "pause": 45.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone. Professional? What are you doing? I'm taking Greek lessons. Do you have my number? Yes, that's your phone number. Sign here, please.",
+        "count": 1,
+        "pause": 54.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο. Επάγγελμα; Τι κάνετε; Κάνω μαθήματα ελληνικών. Εσείς έχετε τον αριθμό μου; Ναι, το τηλέφωνό σας είναι αυτό. Υπογράψτε εδώ, παρακαλώ.",
+        "count": 3,
+        "pause": 47.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone. Professional? What are you doing? I'm taking Greek lessons. Do you have my number? Yes, that's your phone number. Sign here, please. Thank you very much.",
+        "count": 1,
+        "pause": 56.5
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο. Επάγγελμα; Τι κάνετε; Κάνω μαθήματα ελληνικών. Εσείς έχετε τον αριθμό μου; Ναι, το τηλέφωνό σας είναι αυτό. Υπογράψτε εδώ, παρακαλώ. Ευχαριστώ πολύ.",
+        "count": 3,
+        "pause": 48.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"At the registrar's office\" Good morning. What's your name? My name is Fu Chen. I'm the secretary. Where do you live, Mr. Chen? I live in Kypseli, Athens. Address: Cyclades 29. Kipseli Area, T. K. 10785. Where exactly is he? Near the square and the subway. My house is on the third floor. Do you have a phone? Yes, my landline is 2108230987 and my cell phone is 6972132111. I'm writing down your phone number. Do you have an email? I don't have an email. I only have a phone. Professional? What are you doing? I'm taking Greek lessons. Do you have my number? Yes, that's your phone number. Sign here, please. Thank you very much. Hello!",
+        "count": 1,
+        "pause": 57.0
+      },
+      "greek": {
+        "text": "«Στη γραμματεία» Καλημέρα. Πώς λέγεστε; Με λένε Φου Τσεν. Εσείς; Είμαι η γραμματέας. Πού μένετε, κύριε Τσεν; Μένω στην Αθήνα, στην Κυψέλη. Διεύθυνση: Κυκλάδων 29. Περιοχή Κυψέλη, Τ. Κ. 10785. Πού ακριβώς βρίσκεται; Κοντά στην πλατεία και στο μετρό. Το σπίτι μου είναι στον τρίτο όροφο. Έχετε τηλέφωνο; Ναι, το σταθερό μου είναι 2108230987 και το κινητό μου 6972132111. Το τηλέφωνό σας το σημειώνω. Έχετε κι ένα e‑mail; Δεν έχω e‑mail. Έχω μόνο τηλέφωνο. Επάγγελμα; Τι κάνετε; Κάνω μαθήματα ελληνικών. Εσείς έχετε τον αριθμό μου; Ναι, το τηλέφωνό σας είναι αυτό. Υπογράψτε εδώ, παρακαλώ. Ευχαριστώ πολύ. Γεια σας!",
+        "count": 3,
+        "pause": 49.0,
+        "repeat": true
+      },
+      "role": "B"
+    }
+  ]
+}

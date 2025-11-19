@@ -1,0 +1,3098 @@
+{
+  "data": [
+    {
+      "sentence": {
+        "english": {
+          "text": "‘In the neighborhood’",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "«Στη γειτονιά»",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Στη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "neighborhood’",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "γειτονιά»",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "In the neighborhood’",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Στη γειτονιά»",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Where do you live?",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Πού μένετε;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Where?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πού",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Do you live?",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "μένετε;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Where do you live?",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Πού μένετε;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "We live in Kypseli.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Εμείς μένουμε στην Κυψέλη.",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "We are.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εμείς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We live.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "μένουμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Hive.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κυψέλη.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "We stay.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εμείς μένουμε",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We live in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Εμείς μένουμε στην",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "We live in Kypseli.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Εμείς μένουμε στην Κυψέλη.",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Fu and Panayiotis don't live close by.",
+          "count": 1,
+          "pause": 3.5
+        },
+        "greek": {
+          "text": "Ο Φου και ο Παναγιώτης δε μένουν κοντά.",
+          "count": 3,
+          "pause": 4.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Fu",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ο Φου",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "and Panayiotis",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και ο Παναγιώτης",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "don't live",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δε μένουν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "close by.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κοντά.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Fu and Panayiotis",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ο Φου και ο Παναγιώτης",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Fu and Panayiotis don't",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ο Φου και ο Παναγιώτης δε",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Fu and Panayiotis don't live",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Ο Φου και ο Παναγιώτης δε μένουν",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Fu and Panayiotis don't live close by.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Ο Φου και ο Παναγιώτης δε μένουν κοντά.",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Arleta and Anna live in Philothei.",
+          "count": 1,
+          "pause": 3.0
+        },
+        "greek": {
+          "text": "Η Αρλέτα και η Άννα μένουν στη Φιλοθέη.",
+          "count": 3,
+          "pause": 4.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Arleta",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Αρλέτα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "η",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "lon",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ννα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Stay",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένουν",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Philothei.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Φιλοθέη.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Arleta",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η Αρλέτα",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Arleta and",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η Αρλέτα και",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Arleta and the",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η Αρλέτα και η",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Arleta and Nana",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η Αρλέτα και η ννα",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Arleta and Nna stay",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Η Αρλέτα και η ννα μένουν",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Arleta and Nana live in",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Η Αρλέτα και η ννα μένουν στη",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Arleta and Nanna live in Philothei.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Η Αρλέτα και η ννα μένουν στη Φιλοθέη.",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "The children live in China now.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Τα παιδιά μένουν στην Κίνα τώρα.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "children",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "παιδιά",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "live",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένουν",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "in",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στην",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "China",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Κίνα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "now.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τώρα.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The children",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα παιδιά",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The children live",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Τα παιδιά μένουν",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The children live in",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Τα παιδιά μένουν στην",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The children live in China",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Τα παιδιά μένουν στην Κίνα",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The children live in China now.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Τα παιδιά μένουν στην Κίνα τώρα.",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Panagiotis lives in Piraeus, Pasalimani.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι.",
+          "count": 3,
+          "pause": 3.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Panayiotis",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Παναγιώτης",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Stays",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στον",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Piraeus,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πειραιά,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Pasalimani.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πασαλιμάνι.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The Panayiotis",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ο Παναγιώτης",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Panayiotis stays.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ο Παναγιώτης μένει",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Panayiotis lives in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ο Παναγιώτης μένει στον",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Panagiotis lives in Piraeus,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ο Παναγιώτης μένει στον Πειραιά,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Panayiotis lives in Piraeus, in",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Ο Παναγιώτης μένει στον Πειραιά, στο",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Panagiotis lives in Piraeus, Pasalimani.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι.",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I live in Pagrati.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Εγώ μένω στο Παγκράτι.",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I'm staying.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "μένω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Pankrati.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Παγκράτι.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I'm staying.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ μένω",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I live in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Εγώ μένω στο",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I live in Pagrati.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Εγώ μένω στο Παγκράτι.",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Our aunt lives in Alimos, John in St. John.",
+          "count": 1,
+          "pause": 4.5
+        },
+        "greek": {
+          "text": "Η θεία μας μένει στον Άλιμο, ο Γιάννης στον Άγιο Ιωάννη.",
+          "count": 3,
+          "pause": 5.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "aunt",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "θεία",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Stays",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μένει",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στον",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "famine,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λιμο,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ο",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "John",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Γιάννης",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στον",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "yo",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "γιο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "John.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ιωάννη.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The aunt",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η θεία",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η θεία μας",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt stays.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η θεία μας μένει",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt lives in",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Η θεία μας μένει στον",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt lives in the famine,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Η θεία μας μένει στον λιμο,",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt lives in the famine,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Η θεία μας μένει στον λιμο, ο",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt lives in the famine, John.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Η θεία μας μένει στον λιμο, ο Γιάννης",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt lives in the famine, John lives in",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Η θεία μας μένει στον λιμο, ο Γιάννης στον",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt lives in the famine, John lives in the son.",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Η θεία μας μένει στον λιμο, ο Γιάννης στον γιο",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our aunt lives in the famine, John lives in the son of John.",
+            "count": 1,
+            "pause": 6.5
+          },
+          "greek": {
+            "text": "Η θεία μας μένει στον λιμο, ο Γιάννης στον γιο Ιωάννη.",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Microlimano is in Piraeus, and Perama is also.",
+          "count": 1,
+          "pause": 4.0
+        },
+        "greek": {
+          "text": "Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα επίσης.",
+          "count": 3,
+          "pause": 4.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Microlimin",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Μικρολίμανο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στον",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Piraeus,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πειραιά,",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Pass",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Πέραμα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "You too.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "επίσης.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The MicroLeman",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "It's the Microlimano.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο είναι",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The Microlimano is on",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο είναι στον",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Microlimano is in Piraeus,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο είναι στον Πειραιά,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Microlimano is in Piraeus, and",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο είναι στον Πειραιά, και",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Microlimano is in Piraeus, and the",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο είναι στον Πειραιά, και το",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Microlimano is in Piraeus, and Perama",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Microlimano is in Piraeus, and Perama is also.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα επίσης.",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Neapolis is in Thessaloniki, right?",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Η Νεάπολη είναι στη Θεσσαλονίκη, σωστά;",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Naples",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Νεάπολη",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "στη",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Thessaloniki,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Θεσσαλονίκη,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Right?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σωστά;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Neapolis",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Η Νεάπολη",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "It's Naples.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Η Νεάπολη είναι",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Neapolis is in",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Η Νεάπολη είναι στη",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Neapolis is in Thessaloniki,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Η Νεάπολη είναι στη Θεσσαλονίκη,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Neapolis is in Thessaloniki, right?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Η Νεάπολη είναι στη Θεσσαλονίκη, σωστά;",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Yeah.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Ναι.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Yeah.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ναι.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "For practice, let’s say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty - one, thirty - two, forty - three, fifty - four, sixty - five, seventy - six, eighty - seven, ninety - eight, one hundred.",
+          "count": 1,
+          "pause": 21.5
+        },
+        "greek": {
+          "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα οχτώ, εκατό, εκατόν ένα.",
+          "count": 3,
+          "pause": 17.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "For",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Για",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "practice,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εξάσκηση,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "the",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Say",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πούμε",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τους",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Numbers:",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αριθμούς:",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "11,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "έντεκα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "12,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δώδεκα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Thirteen,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεκατρία,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Fourteen,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεκατέσσερα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "15,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεκαπέντε,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Sixteen,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεκαέξι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Seventeen,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεκαεφτά,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Eighteen,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεκαοχτώ,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Nineteen,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεκαεννιά,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "20,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είκοσι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "20",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είκοσι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "one,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ένα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "30",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τριάντα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "two,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δύο,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "40",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σαράντα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "three,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τρία,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "50",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πενήντα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "four,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τέσσερα,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "60",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εξήντα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "five,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "πέντε,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "seventy",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εβδομήντα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "six,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "έξι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "eighty",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ογδόντα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "seven,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εφτά,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Ninety",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ενενήντα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "eight,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "οχτώ,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "a hundred,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "εκατό,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "100",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "εκατόν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "One.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "ένα.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "For practice,",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση,",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, say.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers:",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς:",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say numbers: 11,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα,",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve,",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα,",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen,",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία,",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen,",
+            "count": 1,
+            "pause": 5.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα,",
+            "count": 3,
+            "pause": 5.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen,",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε,",
+            "count": 3,
+            "pause": 5.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen,",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι,",
+            "count": 3,
+            "pause": 6.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen,",
+            "count": 1,
+            "pause": 6.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά,",
+            "count": 3,
+            "pause": 6.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen,",
+            "count": 1,
+            "pause": 7.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ,",
+            "count": 3,
+            "pause": 7.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen,",
+            "count": 1,
+            "pause": 7.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά,",
+            "count": 3,
+            "pause": 7.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty,",
+            "count": 1,
+            "pause": 8.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι,",
+            "count": 3,
+            "pause": 8.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty",
+            "count": 1,
+            "pause": 9.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι",
+            "count": 3,
+            "pause": 8.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one,",
+            "count": 1,
+            "pause": 8.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα,",
+            "count": 3,
+            "pause": 9.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty",
+            "count": 1,
+            "pause": 9.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα",
+            "count": 3,
+            "pause": 9.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two,",
+            "count": 1,
+            "pause": 9.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο,",
+            "count": 3,
+            "pause": 10.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty",
+            "count": 1,
+            "pause": 9.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα",
+            "count": 3,
+            "pause": 10.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three,",
+            "count": 1,
+            "pause": 9.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία,",
+            "count": 3,
+            "pause": 11.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three, fifty",
+            "count": 1,
+            "pause": 10.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα",
+            "count": 3,
+            "pause": 11.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three, fifty-four,",
+            "count": 1,
+            "pause": 10.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα,",
+            "count": 3,
+            "pause": 12.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty",
+            "count": 1,
+            "pause": 10.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα",
+            "count": 3,
+            "pause": 12.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five,",
+            "count": 1,
+            "pause": 10.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε,",
+            "count": 3,
+            "pause": 13.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy",
+            "count": 1,
+            "pause": 11.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα",
+            "count": 3,
+            "pause": 13.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy-six,",
+            "count": 1,
+            "pause": 11.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι,",
+            "count": 3,
+            "pause": 14.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy-six, eighty",
+            "count": 1,
+            "pause": 11.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα",
+            "count": 3,
+            "pause": 14.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy-six, eighty-seven,",
+            "count": 1,
+            "pause": 12.0
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά,",
+            "count": 3,
+            "pause": 15.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy-six, eighty-seven, ninety-nine",
+            "count": 1,
+            "pause": 12.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα",
+            "count": 3,
+            "pause": 15.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy-six, eighty-seven, ninety-eight,",
+            "count": 1,
+            "pause": 12.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα οχτώ,",
+            "count": 3,
+            "pause": 16.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy-six, eighty-seven, ninety-eight, one hundred,",
+            "count": 1,
+            "pause": 13.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα οχτώ, εκατό,",
+            "count": 3,
+            "pause": 16.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let's say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty-one, thirty-two, forty-three, fifty-four, sixty-five, seventy-six, eighty-seven, ninety-eight, one hundred",
+            "count": 1,
+            "pause": 13.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα οχτώ, εκατό, εκατόν",
+            "count": 3,
+            "pause": 17.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "For practice, let’s say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty - one, thirty - two, forty - three, fifty - four, sixty - five, seventy - six, eighty - seven, ninety - eight, one hundred.",
+            "count": 1,
+            "pause": 21.5
+          },
+          "greek": {
+            "text": "Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα οχτώ, εκατό, εκατόν ένα.",
+            "count": 3,
+            "pause": 17.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Perfect!",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Τέλειο!",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Perfect!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τέλειο!",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    }
+  ],
+  "sentences": [
+    {
+      "english": {
+        "text": "‘In the neighborhood’",
+        "count": 1,
+        "pause": 1.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά»",
+        "count": 1,
+        "pause": 1.0,
+        "repeat": false
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "‘ In the neighborhood\" Where do you live?",
+        "count": 1,
+        "pause": 4.0
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε;",
+        "count": 3,
+        "pause": 2.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli.",
+        "count": 1,
+        "pause": 6.0
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη.",
+        "count": 3,
+        "pause": 4.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by.",
+        "count": 1,
+        "pause": 9.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά.",
+        "count": 3,
+        "pause": 8.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei.",
+        "count": 1,
+        "pause": 12.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη.",
+        "count": 3,
+        "pause": 12.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now.",
+        "count": 1,
+        "pause": 15.0
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα.",
+        "count": 3,
+        "pause": 15.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani.",
+        "count": 1,
+        "pause": 17.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι.",
+        "count": 3,
+        "pause": 18.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani. I live in Pagrati.",
+        "count": 1,
+        "pause": 19.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι. Εγώ μένω στο Παγκράτι.",
+        "count": 3,
+        "pause": 20.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani. I live in Pagrati. Our aunt lives in Alimos, John in St. John.",
+        "count": 1,
+        "pause": 24.0
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι. Εγώ μένω στο Παγκράτι. Η θεία μας μένει στον Άλιμο, ο Γιάννης στον Άγιο Ιωάννη.",
+        "count": 3,
+        "pause": 26.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani. I live in Pagrati. Our aunt lives in Alimos, John in St. John. Microlimano is in Piraeus, and Perama is also.",
+        "count": 1,
+        "pause": 28.0
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι. Εγώ μένω στο Παγκράτι. Η θεία μας μένει στον Άλιμο, ο Γιάννης στον Άγιο Ιωάννη. Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα επίσης.",
+        "count": 3,
+        "pause": 30.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani. I live in Pagrati. Our aunt lives in Alimos, John in St. John. Microlimano is in Piraeus, and Perama is also. Neapolis is in Thessaloniki, right?",
+        "count": 1,
+        "pause": 30.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι. Εγώ μένω στο Παγκράτι. Η θεία μας μένει στον Άλιμο, ο Γιάννης στον Άγιο Ιωάννη. Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα επίσης. Η Νεάπολη είναι στη Θεσσαλονίκη, σωστά;",
+        "count": 3,
+        "pause": 33.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani. I live in Pagrati. Our aunt lives in Alimos, John in St. John. Microlimano is in Piraeus, and Perama is also. Neapolis is in Thessaloniki, right?",
+        "count": 1,
+        "pause": 30.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι. Εγώ μένω στο Παγκράτι. Η θεία μας μένει στον Άλιμο, ο Γιάννης στον Άγιο Ιωάννη. Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα επίσης. Η Νεάπολη είναι στη Θεσσαλονίκη, σωστά; Ναι.",
+        "count": 3,
+        "pause": 34.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani. I live in Pagrati. Our aunt lives in Alimos, John in St. John. Microlimano is in Piraeus, and Perama is also. Neapolis is in Thessaloniki, right? For practice, let’s say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty - one, thirty - two, forty - three, fifty - four, sixty - five, seventy - six, eighty - seven, ninety - eight, one hundred.",
+        "count": 1,
+        "pause": 52.0
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι. Εγώ μένω στο Παγκράτι. Η θεία μας μένει στον Άλιμο, ο Γιάννης στον Άγιο Ιωάννη. Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα επίσης. Η Νεάπολη είναι στη Θεσσαλονίκη, σωστά; Ναι. Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα οχτώ, εκατό, εκατόν ένα.",
+        "count": 3,
+        "pause": 51.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"In the neighborhood\" Where do you live? We live in Kypseli. Fu and Panayiotis don't live close by. Arleta and Anna live in Philothei. The children live in China now. Panagiotis lives in Piraeus, Pasalimani. I live in Pagrati. Our aunt lives in Alimos, John in St. John. Microlimano is in Piraeus, and Perama is also. Neapolis is in Thessaloniki, right? For practice, let’s say the numbers: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty, twenty - one, thirty - two, forty - three, fifty - four, sixty - five, seventy - six, eighty - seven, ninety - eight, one hundred. Perfect!",
+        "count": 1,
+        "pause": 52.5
+      },
+      "greek": {
+        "text": "«Στη γειτονιά» Πού μένετε; Εμείς μένουμε στην Κυψέλη. Ο Φου και ο Παναγιώτης δε μένουν κοντά. Η Αρλέτα και η Άννα μένουν στη Φιλοθέη. Τα παιδιά μένουν στην Κίνα τώρα. Ο Παναγιώτης μένει στον Πειραιά, στο Πασαλιμάνι. Εγώ μένω στο Παγκράτι. Η θεία μας μένει στον Άλιμο, ο Γιάννης στον Άγιο Ιωάννη. Το Μικρολίμανο είναι στον Πειραιά, και το Πέραμα επίσης. Η Νεάπολη είναι στη Θεσσαλονίκη, σωστά; Ναι. Για εξάσκηση, ας πούμε τους αριθμούς: έντεκα, δώδεκα, δεκατρία, δεκατέσσερα, δεκαπέντε, δεκαέξι, δεκαεφτά, δεκαοχτώ, δεκαεννιά, είκοσι, είκοσι ένα, τριάντα δύο, σαράντα τρία, πενήντα τέσσερα, εξήντα πέντε, εβδομήντα έξι, ογδόντα εφτά, ενενήντα οχτώ, εκατό, εκατόν ένα. Τέλειο!",
+        "count": 3,
+        "pause": 52.0,
+        "repeat": true
+      },
+      "role": "B"
+    }
+  ]
+}

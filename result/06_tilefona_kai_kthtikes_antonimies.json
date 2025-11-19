@@ -1,0 +1,2321 @@
+{
+  "data": [
+    {
+      "sentence": {
+        "english": {
+          "text": "Telephones",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "«Τηλέφωνα»",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Telephones",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τηλέφωνα»",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Do you have a phone?",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Έχεις τηλέφωνο;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Do you have",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "χεις",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "a phone?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "τηλέφωνο;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Do you have a phone?",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "χεις τηλέφωνο;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Yeah.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Ναι.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Yeah.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ναι.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "My phone is 6932122345 and my landline is 2109960213.",
+          "count": 1,
+          "pause": 4.5
+        },
+        "greek": {
+          "text": "Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213.",
+          "count": 3,
+          "pause": 5.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "or",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δικό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "mobile",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κινητό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "and",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "και",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "fixed",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σταθερό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The same",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το δικό",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Mine.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το δικό μου",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My phone.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το δικό μου κινητό",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "It's my cell phone.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το δικό μου κινητό είναι",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My phone is also",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Το δικό μου κινητό είναι και",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My cell phone is my cell phone.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το δικό μου κινητό είναι και το",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My cell phone is also the landline.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το δικό μου κινητό είναι και το σταθερό",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "My cell phone is my cell phone.",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Το δικό μου κινητό είναι και το σταθερό μου",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "You?",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Εσύ;",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "You?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Εσύ;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I don't have a stable.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Εγώ δεν έχω σταθερό.",
+          "count": 3,
+          "pause": 2.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I do.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "no",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I have",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "έχω",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Steady.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σταθερό.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I didn't.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ δεν",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I don't.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Εγώ δεν έχω",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I don't have a stable.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Εγώ δεν έχω σταθερό.",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "My phone is 6974567876.",
+          "count": 1,
+          "pause": 2.0
+        },
+        "greek": {
+          "text": "Το κινητό μου είναι 6974567876.",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "mobile",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κινητό",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The mobile",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το κινητό",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My phone.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το κινητό μου",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "It's my phone.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Το κινητό μου είναι",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "George's phone number is 2107890988.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Του Γιώργου το τηλέφωνο είναι 2107890988.",
+          "count": 3,
+          "pause": 3.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Του",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "George",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Γιώργου",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "telephone",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τηλέφωνο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "By George",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Του Γιώργου",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "George's",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Του Γιώργου το",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "George's phone.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Του Γιώργου το τηλέφωνο",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "George's phone is",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Του Γιώργου το τηλέφωνο είναι",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Maria?",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Της Μαρίας;",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Της",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Maria?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Μαρίας;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Maria?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Της Μαρίας;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Hers is 6944978576.",
+          "count": 1,
+          "pause": 1.5
+        },
+        "greek": {
+          "text": "Το δικό της είναι 6944978576.",
+          "count": 3,
+          "pause": 2.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "or",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δικό",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "της",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The same",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το δικό",
+            "count": 1,
+            "pause": 1.0,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Hers.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Το δικό της",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Hers is.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Το δικό της είναι",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "The kids? Do they have their own cell phone?",
+          "count": 1,
+          "pause": 4.5
+        },
+        "greek": {
+          "text": "Τα παιδιά; Έχουν το δικό τους κινητό;",
+          "count": 3,
+          "pause": 3.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Guys?",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "παιδιά;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "hun",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "χουν",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "or",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δικό",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τους",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Cell phone?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "κινητό;",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "The kids?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Τα παιδιά;",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The kids?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Τα παιδιά; χουν",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The kids?",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Τα παιδιά; χουν το",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The kids? They got the same.",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Τα παιδιά; χουν το δικό",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The kids? They got theirs.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Τα παιδιά; χουν το δικό τους",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Do the kids have their own cell phone?",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Τα παιδιά; χουν το δικό τους κινητό;",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Yeah, but their phone's off.",
+          "count": 1,
+          "pause": 2.5
+        },
+        "greek": {
+          "text": "Ναι, αλλά το τηλέφωνό τους είναι κλειστό.",
+          "count": 3,
+          "pause": 3.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Yeah.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ναι,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "but",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "αλλά",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "το",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "telephone",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τηλέφωνό",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "τους",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "is",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "είναι",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Closed.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κλειστό.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Yeah, but...",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ναι, αλλά",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Yes, but the",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ναι, αλλά το",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Yeah, but the phone.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ναι, αλλά το τηλέφωνό",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Yeah, but their phone.",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ναι, αλλά το τηλέφωνό τους",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Yeah, but their phone is",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Ναι, αλλά το τηλέφωνό τους είναι",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Yeah, but their phone's off.",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Ναι, αλλά το τηλέφωνό τους είναι κλειστό.",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Our grandfather doesn't have a cell phone, he only has a landline.",
+          "count": 1,
+          "pause": 6.0
+        },
+        "greek": {
+          "text": "Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό.",
+          "count": 3,
+          "pause": 4.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "THE",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Grandpa.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "παππούς",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μας",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "no",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "δεν",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "has",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "έχει",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "mobile,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "κινητό,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "has",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "έχει",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "single",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μόνο",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Steady.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σταθερό.",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "Grandpa.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ο παππούς",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our grandfather.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Ο παππούς μας",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our grandfather didn't.",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Ο παππούς μας δεν",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our grandfather doesn't have",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Ο παππούς μας δεν έχει",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our grandfather has no cell phone,",
+            "count": 1,
+            "pause": 3.0
+          },
+          "greek": {
+            "text": "Ο παππούς μας δεν έχει κινητό,",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our grandfather doesn't have a cell phone, he does.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "Ο παππούς μας δεν έχει κινητό, έχει",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our grandfather doesn't have a cell phone, he only has one.",
+            "count": 1,
+            "pause": 5.5
+          },
+          "greek": {
+            "text": "Ο παππούς μας δεν έχει κινητό, έχει μόνο",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our grandfather doesn't have a cell phone, he only has a landline.",
+            "count": 1,
+            "pause": 6.0
+          },
+          "greek": {
+            "text": "Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό.",
+            "count": 3,
+            "pause": 4.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Good.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Ωραία.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Good.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Ωραία.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "I write: My, your, our, our, your, their.",
+          "count": 1,
+          "pause": 4.0
+        },
+        "greek": {
+          "text": "Γράφω: μου, σου, του, της, μας, σας, τους.",
+          "count": 3,
+          "pause": 4.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "I write:",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Γράφω:",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "My,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μου,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Your,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σου,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "of,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "του,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "of,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "της,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "Our,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "μας,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "you,",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "σας,",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "The Commission will be able to give its opinion.",
+            "count": 1,
+            "pause": 4.5
+          },
+          "greek": {
+            "text": "τους.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "I write: my,",
+            "count": 1,
+            "pause": 1.5
+          },
+          "greek": {
+            "text": "Γράφω: μου,",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I write: my, your,",
+            "count": 1,
+            "pause": 2.0
+          },
+          "greek": {
+            "text": "Γράφω: μου, σου,",
+            "count": 3,
+            "pause": 1.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I write: My, your, his,",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Γράφω: μου, σου, του,",
+            "count": 3,
+            "pause": 2.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I write: My, your, her,",
+            "count": 1,
+            "pause": 2.5
+          },
+          "greek": {
+            "text": "Γράφω: μου, σου, του, της,",
+            "count": 3,
+            "pause": 2.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I write: My, your, our, our, our,",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Γράφω: μου, σου, του, της, μας,",
+            "count": 3,
+            "pause": 3.0,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I write: My, your, our, our, your,",
+            "count": 1,
+            "pause": 3.5
+          },
+          "greek": {
+            "text": "Γράφω: μου, σου, του, της, μας, σας,",
+            "count": 3,
+            "pause": 3.5,
+            "repeat": true
+          },
+          "role": "A"
+        },
+        {
+          "english": {
+            "text": "I write: My, your, our, our, your, their.",
+            "count": 1,
+            "pause": 4.0
+          },
+          "greek": {
+            "text": "Γράφω: μου, σου, του, της, μας, σας, τους.",
+            "count": 3,
+            "pause": 4.0,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "It's okay!",
+          "count": 1,
+          "pause": 1.0
+        },
+        "greek": {
+          "text": "Όλα καλά!",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "ed",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "λα",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "Fine!",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "καλά!",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "It's okay!",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "λα καλά!",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "Great.",
+          "count": 1,
+          "pause": 0.5
+        },
+        "greek": {
+          "text": "Τέλεια.",
+          "count": 3,
+          "pause": 0.5,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "Great.",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τέλεια.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "A"
+        }
+      ],
+      "phrases": [],
+      "role": "A"
+    },
+    {
+      "sentence": {
+        "english": {
+          "text": "See you.",
+          "count": 1,
+          "pause": 1.0
+        },
+        "greek": {
+          "text": "Τα λέμε.",
+          "count": 3,
+          "pause": 1.0,
+          "repeat": true
+        }
+      },
+      "words": [
+        {
+          "english": {
+            "text": "The",
+            "count": 1,
+            "pause": 0.5
+          },
+          "greek": {
+            "text": "Τα",
+            "count": 1,
+            "pause": 0.5,
+            "repeat": false
+          },
+          "role": "B"
+        },
+        {
+          "english": {
+            "text": "I say.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "λέμε.",
+            "count": 3,
+            "pause": 0.5,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "phrases": [
+        {
+          "english": {
+            "text": "See you.",
+            "count": 1,
+            "pause": 1.0
+          },
+          "greek": {
+            "text": "Τα λέμε.",
+            "count": 3,
+            "pause": 1.0,
+            "repeat": true
+          },
+          "role": "B"
+        }
+      ],
+      "role": "B"
+    }
+  ],
+  "sentences": [
+    {
+      "english": {
+        "text": "Telephones",
+        "count": 1,
+        "pause": 0.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα»",
+        "count": 1,
+        "pause": 0.5,
+        "repeat": false
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone?",
+        "count": 1,
+        "pause": 3.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο;",
+        "count": 3,
+        "pause": 1.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah.",
+        "count": 1,
+        "pause": 3.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι.",
+        "count": 3,
+        "pause": 2.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213.",
+        "count": 1,
+        "pause": 8.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213.",
+        "count": 3,
+        "pause": 7.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You?",
+        "count": 1,
+        "pause": 8.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ;",
+        "count": 3,
+        "pause": 8.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable.",
+        "count": 1,
+        "pause": 11.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό.",
+        "count": 3,
+        "pause": 10.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876.",
+        "count": 1,
+        "pause": 13.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876.",
+        "count": 3,
+        "pause": 12.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988.",
+        "count": 1,
+        "pause": 15.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988.",
+        "count": 3,
+        "pause": 15.5,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria?",
+        "count": 1,
+        "pause": 15.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας;",
+        "count": 3,
+        "pause": 16.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576.",
+        "count": 1,
+        "pause": 17.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576.",
+        "count": 3,
+        "pause": 19.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone?",
+        "count": 1,
+        "pause": 21.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό;",
+        "count": 3,
+        "pause": 22.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone? Yeah, but their phone's off.",
+        "count": 1,
+        "pause": 24.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό; Ναι, αλλά το τηλέφωνό τους είναι κλειστό.",
+        "count": 3,
+        "pause": 26.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone? Yeah, but their phone's off. Our grandfather doesn't have a cell phone, he only has a landline.",
+        "count": 1,
+        "pause": 30.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό; Ναι, αλλά το τηλέφωνό τους είναι κλειστό. Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό.",
+        "count": 3,
+        "pause": 30.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone? Yeah, but their phone's off. Our grandfather doesn't have a cell phone, he only has a landline. Good.",
+        "count": 1,
+        "pause": 30.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό; Ναι, αλλά το τηλέφωνό τους είναι κλειστό. Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό. Ωραία.",
+        "count": 3,
+        "pause": 31.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone? Yeah, but their phone's off. Our grandfather doesn't have a cell phone, he only has a landline. Good. I write: My, your, our, our, your, their.",
+        "count": 1,
+        "pause": 34.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό; Ναι, αλλά το τηλέφωνό τους είναι κλειστό. Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό. Ωραία. Γράφω: μου, σου, του, της, μας, σας, τους.",
+        "count": 3,
+        "pause": 35.0,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone? Yeah, but their phone's off. Our grandfather doesn't have a cell phone, he only has a landline. Good. I write: My, your, our, our, your, their. It's okay!",
+        "count": 1,
+        "pause": 35.5
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό; Ναι, αλλά το τηλέφωνό τους είναι κλειστό. Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό. Ωραία. Γράφω: μου, σου, του, της, μας, σας, τους. Όλα καλά!",
+        "count": 3,
+        "pause": 36.0,
+        "repeat": true
+      },
+      "role": "B"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone? Yeah, but their phone's off. Our grandfather doesn't have a cell phone, he only has a landline. Good. I write: My, your, our, our, your, their. It's okay! Great.",
+        "count": 1,
+        "pause": 36.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό; Ναι, αλλά το τηλέφωνό τους είναι κλειστό. Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό. Ωραία. Γράφω: μου, σου, του, της, μας, σας, τους. Όλα καλά! Τέλεια.",
+        "count": 3,
+        "pause": 36.5,
+        "repeat": true
+      },
+      "role": "A"
+    },
+    {
+      "english": {
+        "text": "\"Phones\" Do you have a phone? Yeah. My phone is 6932122345 and my landline is 2109960213. You? I don't have a stable. My phone is 6974567876. George's phone is 2107890988. Maria? Hers is 6944978576. The kids? Do they have their own cell phone? Yeah, but their phone's off. Our grandfather doesn't have a cell phone, he only has a landline. Good. I write: My, your, our, our, your, their. It's okay! Great. See you.",
+        "count": 1,
+        "pause": 37.0
+      },
+      "greek": {
+        "text": "«Τηλέφωνα» Έχεις τηλέφωνο; Ναι. Το δικό μου κινητό είναι 6932122345 και το σταθερό μου 2109960213. Εσύ; Εγώ δεν έχω σταθερό. Το κινητό μου είναι 6974567876. Του Γιώργου το τηλέφωνο είναι 2107890988. Της Μαρίας; Το δικό της είναι 6944978576. Τα παιδιά; Έχουν το δικό τους κινητό; Ναι, αλλά το τηλέφωνό τους είναι κλειστό. Ο παππούς μας δεν έχει κινητό, έχει μόνο σταθερό. Ωραία. Γράφω: μου, σου, του, της, μας, σας, τους. Όλα καλά! Τέλεια. Τα λέμε.",
+        "count": 3,
+        "pause": 37.5,
+        "repeat": true
+      },
+      "role": "B"
+    }
+  ]
+}
